@@ -5,7 +5,6 @@
 // made by nolanwhy
 
 /*
-    Update 2 - 7/26/24
     -------------------- Update 2 - 7/26/24 ---------------------
     # Made a GitHub: https://github.com/nolanwhy/RCCServiceSoap08
     # Project name is now RCCServiceSoap08
